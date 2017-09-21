@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  background-color: #F1F7ED;
+}
+
+.App-header {
+  background-color: #7CA982;
+  height: 150px;
+  padding: 20px;
+  color: whitesmoke;
+}
+
+.newItemForm{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+.item {
+  margin: 25px;
+  height: 150px;
+  width: 200px;
+  background-color: #F9FCF8;
+}
+
+.appContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}

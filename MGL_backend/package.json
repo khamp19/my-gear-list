@@ -1,0 +1,21 @@
+{
+  "name": "mgl_server",
+  "version": "1.0.0",
+  "description": "JSON file for MyGearList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "khamp19"
+  },
+  "author": "khamp",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.3"
+  }
+}
